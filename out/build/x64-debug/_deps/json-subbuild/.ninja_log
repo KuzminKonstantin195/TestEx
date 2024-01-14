@@ -1,0 +1,21 @@
+# ninja log v5
+1	37	7266912994217117	json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	f5e1cad6e742a8bc
+1655	1686	7266913010710999	C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch	142833107bb938e1
+1	37	7266912994217117	C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	f5e1cad6e742a8bc
+1716	1747	7266913011319645	json-populate-prefix/src/json-populate-stamp/json-populate-build	e60e213bfab99952
+1624	1654	7266913010388352	json-populate-prefix/src/json-populate-stamp/json-populate-update	f1553c737758b700
+38	1624	7266913010082667	json-populate-prefix/src/json-populate-stamp/json-populate-download	e2fd8c2b4c969bad
+1655	1686	7266913010710999	json-populate-prefix/src/json-populate-stamp/json-populate-patch	142833107bb938e1
+1624	1654	7266913010388352	C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update	f1553c737758b700
+38	1624	7266913010082667	C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download	e2fd8c2b4c969bad
+1686	1716	7266913011010233	json-populate-prefix/src/json-populate-stamp/json-populate-configure	6abc0f2ba5bc8ad8
+1686	1716	7266913011010233	C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure	6abc0f2ba5bc8ad8
+1716	1747	7266913011319645	C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build	e60e213bfab99952
+1747	1780	7266913011640124	json-populate-prefix/src/json-populate-stamp/json-populate-install	35847abb52198ce0
+1780	1810	7266913011948339	json-populate-prefix/src/json-populate-stamp/json-populate-test	8319aacd57aa15d9
+1747	1780	7266913011640124	C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install	35847abb52198ce0
+1780	1810	7266913011948339	C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test	8319aacd57aa15d9
+1810	1851	7266913012356514	CMakeFiles/json-populate-complete	96644b58ef801888
+1810	1851	7266913012356514	json-populate-prefix/src/json-populate-stamp/json-populate-done	96644b58ef801888
+1810	1851	7266913012356514	C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/_deps/json-subbuild/CMakeFiles/json-populate-complete	96644b58ef801888
+1810	1851	7266913012356514	C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-done	96644b58ef801888

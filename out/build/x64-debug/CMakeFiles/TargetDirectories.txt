@@ -1,0 +1,5 @@
+C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/CMakeFiles/Test_exerceise.dir
+C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/_deps/json-build/CMakeFiles/edit_cache.dir
+C:/Users/konst/Desktop/Test_exerceise/out/build/x64-debug/_deps/json-build/CMakeFiles/rebuild_cache.dir
